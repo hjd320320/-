@@ -2,5 +2,6 @@
 int main()
 {
    printf("hello world,nice to meet you");
+   printf("I have learned lots of new knowledge");
    return 0;
 }
